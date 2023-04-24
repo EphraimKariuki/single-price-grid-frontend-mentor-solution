@@ -122,4 +122,8 @@ ul {
         width: 550px;
         height: 400px;
     } 
+
+    #bottom-left-section, #bottom-right-section {
+        width: 50%;
+    }
 }
